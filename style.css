@@ -1,0 +1,26 @@
+body {
+    background-image: url(Scifi-background.jpg);
+    background-size: cover;
+}
+.form{
+    margin-top: 100px;
+}
+.card{
+    background: linear-gradient(
+        rgba(4, 36, 64, 0.7),
+        rgba(183, 147, 201, 0.7)
+    );
+}
+.submit{
+    border-radius: 50px;
+    width: 100%;
+}
+h2{
+    font-size: 10px;
+}
+h1{
+    font-family: "Mr Bedfort", cursive;
+    font-weight: 400;
+    font-style: normal;
+  
+}
